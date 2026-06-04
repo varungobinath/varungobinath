@@ -123,10 +123,8 @@
 | ⭐ **HackerRank — Java** | 5 Stars |
 | ⭐ **HackerRank — Python** | 4 Stars |
 | ⭐ **HackerRank — Problem Solving** | 3 Stars |
-| 🏆 **LeetCode — 100 Days Badge 2025** | Solved problems every day for 100 consecutive days in 2025 |
-| 🏆 **LeetCode — 50 Days Badge 2025** | Consistent daily practice streak of 50 days in 2025 |
-| 🏆 **LeetCode — 100 Days Badge 2024** | 100-day daily problem-solving streak in 2024 |
-| 🏆 **LeetCode — 50 Days Badge 2024** | 50-day daily problem-solving streak in 2024 |
+| 🏆 **LeetCode — 100 Days Badge** | 100-day daily problem-solving streak in 2024 and 2025 |
+| 🏆 **LeetCode — 50 Days Badge** | 50-day daily problem-solving streak in 2024 and 2025 |
 | 💻 **LeetCode Global Rank** | #267,594 · 415 Java · 11 C · 8 Python3 problems solved |
 
 </div>
