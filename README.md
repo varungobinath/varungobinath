@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Varun+G+%F0%9F%91%8B;Java+Full+Stack+Developer;Flutter+App+Builder;DSA+%7C+LeetCode+Daily+Grinder;Spring+Boot+%2B+REST+API+Enthusiast)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Varun+G+%F0%9F%91%8B;Java+Full+Stack+Developer;Flutter+App+Builder;DSA+%7C+LeetCode;Spring+Boot+%2B+REST+API+Enthusiast)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech IT student at **St. Joseph's College of Engineering, Chennai** (2022–26)
-- 💼 Java Full Stack Intern @ **VEI Technologies Pvt. Ltd.**
+- 💼 Java Full Stack Intern @ **VEI Technologies Pvt. Ltd.** (Jan - Apr 2026)
 - 💻 Passionate about **backend development**, **REST APIs**, and **Flutter mobile apps**
 - 🧩 Active **DSA practitioner** — 400+ LeetCode problems solved, mostly in Java
 - 📍 Based in **Chennai, Tamil Nadu, India**
@@ -26,19 +26,16 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Backend & Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
 
 **Frontend / Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Databases**
@@ -52,7 +49,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Resilience4j](https://img.shields.io/badge/Resilience4j-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ---
 
@@ -100,11 +96,11 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**To-Do List App**](https://github.com/varungobinath) | Flutter • Spring Boot • MySQL | Full-stack multi-user app with login/register auth, CRUD tasks, DTO pattern & optimized JPA queries |
-| [**Audio Streaming Platform**](https://github.com/varungobinath) | React.js • Spring Boot • MySQL | FileSystemResource-based audio streaming + Resilience4j Rate Limiter capped at **5 req/sec** on uploads |
-| [**URL Shortener**](https://github.com/varungobinath) | HTML • Spring Boot • MySQL | Hash-based slug generation, redirect logic, click-tracking analytics, full MVC + JPA architecture |
-| [**Employee Management System**](https://github.com/varungobinath) | Flutter • Spring Boot • MySQL | Full-stack CRUD with RESTful APIs, department management, scalable & secure DB queries |
-| [**ThePhonepedia**](https://github.com/varungobinath) | Flutter | Cross-platform app with live REST API integration, specs explorer, light/dark/system theme support |
+| [**To-Do List App**](https://github.com/varungobinath/todolist-app-fullstack) | Flutter • Spring Boot • MySQL | Full-stack multi-user app with login/register auth, CRUD tasks, DTO pattern & optimized JPA queries |
+| [**Audio Streaming Platform**](https://github.com/varungobinath/AudioStreamingPlatform) | React.js • Spring Boot • MySQL | FileSystemResource-based audio streaming + Resilience4j Rate Limiter capped at **5 req/sec** on uploads |
+| [**URL Shortener**](https://github.com/varungobinath/URLShortener) | HTML • Spring Boot • MySQL | Hash-based slug generation, redirect logic, click-tracking analytics, full MVC + JPA architecture |
+| [**Employee Management System**](https://github.com/varungobinath/EMS) | Flutter • Spring Boot • MySQL | Full-stack CRUD with RESTful APIs, department management, scalable & secure DB queries |
+| [**ThePhonepedia**](https://github.com/varungobinath/ThePhonepedia) | Flutter | Cross-platform app with live REST API integration, specs explorer, light/dark/system theme support |
 
 </div>
 
@@ -123,6 +119,7 @@
 | 🏆 | **LeetCode — 100 Days Badge 2025** | Solved problems every day for 100 consecutive days in 2025 |
 | 🏆 | **LeetCode — 50 Days Badge 2025** | Consistent daily practice streak of 50 days in 2025 |
 | 🏆 | **LeetCode — 100 Days Badge 2024** | 100-day daily problem-solving streak in 2024 |
+| 🏆 | **LeetCode — 50 Days Badge 2024** | 50-day daily problem-solving streak in 2024 |
 | 💻 | **LeetCode Global Rank** | **#267,594** · 415 Java · 11 C · 8 Python3 problems solved |
 
 </div>
