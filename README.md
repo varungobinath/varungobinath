@@ -145,7 +145,7 @@
 | 🔵 C Problems Solved | **11** |
 | 🏅 Total Badges Earned | **6** |
 | 🔥 Longest Streak | **100 Days (2024 and 2025)** |
-| 🧠 Top Skills | Dynamic Programming · Hash Table · Array |
+| 🧠 Top Skills | Hash Table · Array · LinkedList|
 
 </div>
 
