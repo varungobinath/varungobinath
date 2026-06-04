@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20backends%20that%20scale&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Varun+G+%F0%9F%91%8B;Java+Full+Stack+Developer;Flutter+App+Builder;DSA+%7C+LeetCode+Daily+Grinder;Spring+Boot+%2B+REST+API+Enthusiast)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Varun+G+%F0%9F%91%8B;Java+Stack+Developer;Flutter+App+Builder;DSA+%7C+LeetCode;Spring+Boot+%2B+REST+API;Data+Analytics+Explorer)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -41,6 +41,13 @@
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Tools & Platforms**
 
