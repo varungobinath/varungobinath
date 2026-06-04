@@ -10,36 +10,12 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```java
-public class Varun {
-
-    String name        = "Varun G";
-    String location    = "Chennai, Tamil Nadu, India";
-    String degree      = "B.Tech IT @ St. Joseph's College of Engineering (2022–26)";
-    String email       = "varungobinath31@gmail.com";
-
-    String[] stack = {
-        "Java", "Spring Boot", "Flutter",
-        "MySQL", "REST APIs", "Spring Data JPA"
-    };
-
-    String[] currentlyLearning = {
-        "Advanced System Design",
-        "React.js",
-        "Cloud Deployment (AWS / GCP)"
-    };
-
-    String funFact = "I've solved 400+ LeetCode problems — mostly in Java ☕";
-
-    String motto() {
-        return "Build things that work. Then make them better.";
-    }
-}
-```
-
-<br clear="right"/>
+- 🎓 B.Tech IT student at **St. Joseph's College of Engineering, Chennai** (2022–26)
+- 💼 Java Full Stack Intern @ **VEI Technologies Pvt. Ltd.**
+- 💻 Passionate about **backend development**, **REST APIs**, and **Flutter mobile apps**
+- 🧩 Active **DSA practitioner** — 400+ LeetCode problems solved, mostly in Java
+- 📍 Based in **Chennai, Tamil Nadu, India**
+- 📬 Reach me at **varung31102004@gmail.com**
 
 ---
 
@@ -83,34 +59,9 @@ public class Varun {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/varungobinath">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varungobinath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/varungobinath">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varungobinath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=varungobinath&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Varun's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varungobinath&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/varungobinath)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varungobinath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varungobinath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" />
 </div>
 
 ---
@@ -119,7 +70,7 @@ public class Varun {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=varungobinath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/varungobinath)
+[![trophy](https://github-profile-trophy.vercel.app/?username=varungobinath&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/varungobinath)
 
 </div>
 
@@ -136,17 +87,6 @@ public class Varun {
 - Worked on full-stack Java projects integrating MySQL backends with frontend interfaces, ensuring data consistency and scalability.
 - Collaborated in a professional engineering environment, gaining hands-on industry exposure to MVC architecture and clean code practices.
 - Strengthened understanding of the complete SDLC from requirements gathering through API testing with Postman.
-
-</details>
-
-<details>
-<summary>🏢 <strong>Wipro TalentNext</strong> — Java Full Stack Trainee | Jul 2025 – Oct 2025 | Remote</summary>
-
-> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-- Successfully completed Wipro's structured Digital Skills Readiness Program covering Java Full Stack development end-to-end.
-- Earned the **Java Full Stack** certification from Wipro TalentNext upon program completion.
-- Gained proficiency in enterprise Java patterns, Spring ecosystem, and database-driven application development.
 
 </details>
 
@@ -168,7 +108,7 @@ public class Varun {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**To-Do List App**](https://github.com/varungobinath) | Flutter • Spring Boot • MySQL | Full-stack multi-user app with JWT-style auth, CRUD tasks, DTO pattern & optimized JPA queries |
+| [**To-Do List App**](https://github.com/varungobinath) | Flutter • Spring Boot • MySQL | Full-stack multi-user app with login/register auth, CRUD tasks, DTO pattern & optimized JPA queries |
 | [**Audio Streaming Platform**](https://github.com/varungobinath) | React.js • Spring Boot • MySQL | FileSystemResource-based audio streaming + Resilience4j Rate Limiter capped at **5 req/sec** on uploads |
 | [**URL Shortener**](https://github.com/varungobinath) | HTML • Spring Boot • MySQL | Hash-based slug generation, redirect logic, click-tracking analytics, full MVC + JPA architecture |
 | [**Employee Management System**](https://github.com/varungobinath) | Flutter • Spring Boot • MySQL | Full-stack CRUD with RESTful APIs, department management, scalable & secure DB queries |
@@ -258,23 +198,11 @@ public class Varun {
 
 <div align="center">
 
-| Degree | Institution | University | CGPA / % | Year |
+| Degree | Institution | University | CGPA | Year |
 |---|---|---|---|---|
 | 🎓 B.Tech — Information Technology | St. Joseph's College of Engineering, Chennai | Anna University | **7.25** (till Sem 7) | 2026 |
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-```
-🏗️  System Design        →  Load Balancing, Caching, Microservices Patterns
-⚛️  React.js             →  Hooks, Context API, Component Architecture
-☁️  Cloud Deployment     →  AWS EC2 / S3, GCP App Engine basics
-🔐  Spring Security      →  JWT Auth, OAuth2, Role-Based Access Control
-📦  Docker               →  Containerisation, Docker Compose
-```
 
 ---
 
@@ -286,7 +214,7 @@ public class Varun {
 [![GitHub](https://img.shields.io/badge/GitHub-varungobinath-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varungobinath)
 [![LeetCode](https://img.shields.io/badge/LeetCode-varung31102004-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/varung31102004)
 [![HackerRank](https://img.shields.io/badge/HackerRank-varung31102004-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/varung31102004)
-[![SkillRack](https://img.shields.io/badge/SkillRack-Profile-FF6B35?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=408206&key=79969436c1dac5307a7370aff00170af4d8f9afc)
+[![SkillRack](https://img.shields.io/badge/SkillRack-Profile-FF6B35?style=for-the-badge&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=408206&key=79969436c1dac5307a7370aff00170af4d8f9afc)
 [![Email](https://img.shields.io/badge/Email-varung31102004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varung31102004@gmail.com)
 
 </div>
