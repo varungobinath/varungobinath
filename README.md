@@ -58,20 +58,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varungobinath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varungobinath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" />
-</div>
-
----
-
-## 🏆 Trophy Wall
+> ⚠️ **Note:** If the cards below don't load, go to [github-readme-stats.vercel.app](https://github-readme-stats.vercel.app) — the public instance is rate-limited. The alternative is to [self-host your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=varungobinath&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/varungobinath)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=varungobinath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Varun's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varungobinath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
