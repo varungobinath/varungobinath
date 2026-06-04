@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20backends%20that%20scale%20%26%20apps%20that%20matter&descAlignY=62&descSize=16"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20backends%20that%20scale&descAlignY=62&descSize=16)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Varun+G+%F0%9F%91%8B;Java+Full+Stack+Developer;Flutter+App+Builder;DSA+%7C+LeetCode;Spring+Boot+%2B+REST+API+Enthusiast)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Varun+G+%F0%9F%91%8B;Java+Full+Stack+Developer;Flutter+App+Builder;DSA+%7C+LeetCode+Daily+Grinder;Spring+Boot+%2B+REST+API+Enthusiast)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -54,12 +54,12 @@
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Note:** If the cards below don't load, go to [github-readme-stats.vercel.app](https://github-readme-stats.vercel.app) — the public instance is rate-limited. The alternative is to [self-host your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varungobinath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Varun's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varungobinath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
+
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varungobinath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varungobinath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
+
 </div>
 
 ---
@@ -96,10 +96,10 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**To-Do List App**](https://github.com/varungobinath/todolist-app-fullstack) | Flutter • Spring Boot • MySQL | Full-stack multi-user app with login/register auth, CRUD tasks, DTO pattern & optimized JPA queries |
 | [**Audio Streaming Platform**](https://github.com/varungobinath/AudioStreamingPlatform) | React.js • Spring Boot • MySQL | FileSystemResource-based audio streaming + Resilience4j Rate Limiter capped at **5 req/sec** on uploads |
 | [**URL Shortener**](https://github.com/varungobinath/URLShortener) | HTML • Spring Boot • MySQL | Hash-based slug generation, redirect logic, click-tracking analytics, full MVC + JPA architecture |
-| [**Employee Management System**](https://github.com/varungobinath/EMS) | Flutter • Spring Boot • MySQL | Full-stack CRUD with RESTful APIs, department management, scalable & secure DB queries |
+| [**To-Do List App**](https://github.com/varungobinath/todolist-app-fullstack) | Flutter • Spring Boot • MySQL | Full-stack multi-user app with login/register auth, CRUD tasks, DTO pattern and optimized JPA queries |
+| [**Employee Management System**](https://github.com/varungobinath/EMS) | Flutter • Spring Boot • MySQL | Full-stack CRUD with RESTful APIs, department management, scalable and secure DB queries |
 | [**ThePhonepedia**](https://github.com/varungobinath/ThePhonepedia) | Flutter | Cross-platform app with live REST API integration, specs explorer, light/dark/system theme support |
 
 </div>
@@ -110,17 +110,17 @@
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|---|---|---|
-| 🥇 | **Coding Club Contest — 1st Rank (Top 10)** | Cash prize of ₹1000 · May 20, 2023 · SJCE |
-| ⭐ | **HackerRank — Java** | **5 Stars** 🌟🌟🌟🌟🌟 |
-| ⭐ | **HackerRank — Python** | **4 Stars** 🌟🌟🌟🌟 |
-| ⭐ | **HackerRank — Problem Solving** | **3 Stars** 🌟🌟🌟 |
-| 🏆 | **LeetCode — 100 Days Badge 2025** | Solved problems every day for 100 consecutive days in 2025 |
-| 🏆 | **LeetCode — 50 Days Badge 2025** | Consistent daily practice streak of 50 days in 2025 |
-| 🏆 | **LeetCode — 100 Days Badge 2024** | 100-day daily problem-solving streak in 2024 |
-| 🏆 | **LeetCode — 50 Days Badge 2024** | 50-day daily problem-solving streak in 2024 |
-| 💻 | **LeetCode Global Rank** | **#267,594** · 415 Java · 11 C · 8 Python3 problems solved |
+| Achievement | Details |
+|---|---|
+| 🥇 **Coding Club Contest — 1st Rank (Top 10)** | Cash prize of Rs.1000 · May 20, 2023 · SJCE |
+| ⭐ **HackerRank — Java** | 5 Stars |
+| ⭐ **HackerRank — Python** | 4 Stars |
+| ⭐ **HackerRank — Problem Solving** | 3 Stars |
+| 🏆 **LeetCode — 100 Days Badge 2025** | Solved problems every day for 100 consecutive days in 2025 |
+| 🏆 **LeetCode — 50 Days Badge 2025** | Consistent daily practice streak of 50 days in 2025 |
+| 🏆 **LeetCode — 100 Days Badge 2024** | 100-day daily problem-solving streak in 2024 |
+| 🏆 **LeetCode — 50 Days Badge 2024** | 50-day daily problem-solving streak in 2024 |
+| 💻 **LeetCode Global Rank** | #267,594 · 415 Java · 11 C · 8 Python3 problems solved |
 
 </div>
 
@@ -139,7 +139,7 @@
 | 🐍 Python3 Problems Solved | **8** |
 | 🔵 C Problems Solved | **11** |
 | 🏅 Total Badges Earned | **6** |
-| 🔥 Longest Streak | **100 Days (2024 & 2025)** |
+| 🔥 Longest Streak | **100 Days (2024 and 2025)** |
 | 🧠 Top Skills | Dynamic Programming · Hash Table · Array |
 
 </div>
@@ -154,9 +154,9 @@
 
 | Language / Domain | Stars | Certified |
 |---|---|---|
-| ☕ Java | ⭐⭐⭐⭐⭐ (5 Stars) | ✅ Java (Basic) |
-| 🐍 Python | ⭐⭐⭐⭐ (4 Stars) | ✅ Python (Basic) |
-| 🧩 Problem Solving | ⭐⭐⭐ (3 Stars) | ✅ Problem Solving (Basic) |
+| ☕ Java | 5 Stars | ✅ Java (Basic) |
+| 🐍 Python | 4 Stars | ✅ Python (Basic) |
+| 🧩 Problem Solving | 3 Stars | ✅ Problem Solving (Basic) |
 
 </div>
 
@@ -169,12 +169,12 @@
 | Certificate | Issuer |
 |---|---|
 | ✅ Java Full Stack | Wipro TalentNext |
-| 🥈 Programming in Java — **ELITE** | NPTEL |
-| 🥈 Data Structures & Algorithms Using Java — **ELITE** | NPTEL |
-| 🥈 Python for Data Science — **ELITE + SILVER** | NPTEL |
-| 🥈 Fundamental Algorithms: Design & Analysis — **ELITE + SILVER** | NPTEL |
+| 🥈 Programming in Java — ELITE | NPTEL |
+| 🥈 Data Structures and Algorithms Using Java — ELITE | NPTEL |
+| 🥈 Python for Data Science — ELITE + SILVER | NPTEL |
+| 🥈 Fundamental Algorithms: Design and Analysis — ELITE + SILVER | NPTEL |
 | ✅ Java Fundamentals | Oracle Academy |
-| ✅ Python Essentials 1 & 2 | Cisco Networking Academy |
+| ✅ Python Essentials 1 and 2 | Cisco Networking Academy |
 | ✅ Java (Basic) | HackerRank |
 | ✅ Python (Basic) | HackerRank |
 | ✅ Problem Solving (Basic) | HackerRank |
@@ -214,4 +214,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
