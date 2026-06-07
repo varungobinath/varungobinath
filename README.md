@@ -194,7 +194,7 @@
 
 | Degree | Institution | University | CGPA | Year |
 |---|---|---|---|---|
-| 🎓 B.Tech — Information Technology | St. Joseph's College of Engineering, Chennai | Anna University | **7.25** (till Sem 7) | 2026 |
+| 🎓 B.Tech — Information Technology | St. Joseph's College of Engineering, Chennai | Anna University | **7.39** | 2026 |
 
 </div>
 
