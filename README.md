@@ -15,7 +15,7 @@
 - 💻 Passionate about **backend development**, **REST APIs**, and **Flutter mobile apps**
 - 🧩 Active **DSA practitioner** — 400+ LeetCode problems solved, mostly in Java
 - 📍 Based in **Chennai, Tamil Nadu, India**
-- 📬 Reach me at **varung31102004@gmail.com**
+- 📬 Reach me at **varungobi.dev@gmail.com**
 
 ---
 
@@ -204,7 +204,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-g-82774025a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-g-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-varungobinath-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varungobinath)
 [![LeetCode](https://img.shields.io/badge/LeetCode-varung31102004-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/varung31102004)
 [![HackerRank](https://img.shields.io/badge/HackerRank-varung31102004-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/varung31102004)
