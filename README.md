@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Varun+G+%F0%9F%91%8B;Java+Stack+Developer;Flutter+App+Builder;DSA+%7C+LeetCode;Spring+Boot+%2B+REST+API;Data+Analytics+Explorer)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Varun+G+%F0%9F%91%8B;Backend+%26+AI+Engineer;Agentic+AI+%7C+RAG+Pipelines;Spring+Boot+%2B+REST+APIs;Scalable+Systems+Builder;DSA+%7C+LeetCode)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -11,8 +11,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech IT student at **St. Joseph's College of Engineering, Chennai** (2022–26)
-- 💼 Java Full Stack Intern @ **VEI Technologies Pvt. Ltd.** (Jan - Apr 2026)
-- 💻 Passionate about **backend development**, **REST APIs**, and **Flutter mobile apps**
+- 💼 Industry Full Stack Java Intern @ **VEI Technologies Pvt. Ltd.** (Jan – Apr 2026)
+- 🤖 Backend & AI Engineer building **production-grade REST APIs**, **RAG pipelines**, and **autonomous Agentic AI workflows**
+- 🧠 Solving agentic architecture challenges: **state management, memory compaction, evaluation loops, and tool orchestration**
 - 🧩 Active **DSA practitioner** — 400+ LeetCode problems solved, mostly in Java
 - 📍 Based in **Chennai, Tamil Nadu, India**
 - 📬 Reach me at **varungobi.dev@gmail.com**
@@ -21,33 +22,49 @@
 
 ## 🛠️ Tech Stack
 
+**Agentic AI & LLMs**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![ReAct](https://img.shields.io/badge/ReAct_%7C_Multi--Agent-8A2BE2?style=flat-square)
+
+**Generative AI**
+
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-5A4FCF?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend & Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-0A7E8C?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Frontend / Mobile**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Databases**
+**Databases & Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Data Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Tools & Platforms**
 
@@ -73,20 +90,20 @@
 
 ## 💼 Work Experience
 
-<details>
-<summary>🏢 <strong>VEI Technologies Pvt. Ltd.</strong> — Java Full Stack Intern | Jan 2026 – Apr 2026 | Chennai</summary>
+<details open>
+<summary>🏢 <strong>VEI Technologies Pvt. Ltd.</strong> — Industry Full Stack Java Intern | Jan 2026 – Apr 2026 | Chennai</summary>
 
 > ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-- Developed and maintained RESTful APIs using Spring Boot with Spring Data JPA and DTO patterns across a 3-month industry internship.
+- Developed full-stack web applications using Java and the Spring ecosystem, including RESTful APIs with Spring Data JPA and the DTO pattern.
 - Worked on full-stack Java projects integrating MySQL backends with frontend interfaces, ensuring data consistency and scalability.
-- Collaborated in a professional engineering environment, gaining hands-on industry exposure to MVC architecture and clean code practices.
-- Strengthened understanding of the complete SDLC from requirements gathering through API testing with Postman.
+- Collaborated in a professional engineering environment, gaining hands-on exposure to MVC architecture and clean code practices.
+- Strengthened understanding of the complete SDLC, from requirements gathering through API testing with Postman.
 
 </details>
 
 <details>
-<summary>🏢 <strong>BigSiBucks Innovation Pvt. Ltd.</strong> — Java Intern | Jun 2024 – Jul 2024 | Remote</summary>
+<summary>🏢 <strong>BigSiBucks Innovation Pvt. Ltd.</strong> — Java Developer Intern | Jun 2024 – Jul 2024 | Remote</summary>
 
 > ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -99,17 +116,42 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 AI & Machine Learning
+
 <div align="center">
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**Audio Streaming Platform**](https://github.com/varungobinath/AudioStreamingPlatform) | React.js • Spring Boot • MySQL | FileSystemResource-based audio streaming + Resilience4j Rate Limiter capped at **5 req/sec** on uploads |
-| [**URL Shortener**](https://github.com/varungobinath/URLShortener) | HTML • Spring Boot • MySQL | Hash-based slug generation, redirect logic, click-tracking analytics, full MVC + JPA architecture |
+| **HR Policy Bot (RAG & Local LLM)** | Python • Streamlit • LangChain • LangGraph • LM Studio • ChromaDB • SQLite | RAG assistant with **hybrid search (BM25 + ChromaDB vectors)** delivering document-grounded answers from company policy PDFs via a local LLM; Streamlit UI with SQLite-backed question history and an admin panel for PDF upload and automatic vector re-indexing |
+| **Knee Osteoarthritis Severity Grading System** | Python • TensorFlow/Keras • CNNs • Streamlit | Ensemble of fine-tuned **Xception, ResNet-50, and InceptionResNetV2** classifying X-rays into 5 KL severity grades; **71% balanced accuracy** across ~8,000 images, handling extreme class imbalance (Grade 4 at 3%) with augmentation and F1-weighted aggregation; **Grad-CAM heatmaps** for explainable diagnoses |
+
+</div>
+
+### ⚙️ Backend & Full Stack
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [**Audio Streaming Platform**](https://github.com/varungobinath/AudioStreamingPlatform) | React.js • Spring Boot • MySQL • Resilience4j | Non-blocking audio streaming with FileSystemResource + Resilience4j Rate Limiter capped at **5 req/sec** on uploads |
+| [**URL Shortener & Analytics Service**](https://github.com/varungobinath/URLShortener) | HTML • Spring Boot • MySQL | Hash-based slug generation, redirect engine, persistent click-tracking analytics, strict MVC with DTO layers and JPA |
 | [**To-Do List App**](https://github.com/varungobinath/todolist-app-fullstack) | Flutter • Spring Boot • MySQL | Full-stack multi-user app with login/register auth, CRUD tasks, DTO pattern and optimized JPA queries |
 | [**Employee Management System**](https://github.com/varungobinath/EMS) | Flutter • Spring Boot • MySQL | Full-stack CRUD with RESTful APIs, department management, scalable and secure DB queries |
 | [**ThePhonepedia**](https://github.com/varungobinath/ThePhonepedia) | Flutter | Cross-platform app with live REST API integration, specs explorer, light/dark/system theme support |
 
 </div>
+
+---
+
+## 🔬 Applied AI & Agentic AI Research
+
+**Agentic Design Patterns & Architecture Research** — `LangGraph` `ReAct` `Spring AI` `RAG` `CI/CD`
+
+- 🧪 **CI/CD Agentic Evaluation:** Designed evaluation loops within CI/CD pipelines to monitor drift, catch hallucinations, and measure agent task quality before production deployment.
+- 🧠 **Long-Context & Memory Management:** Prototyped agentic memory architectures using conversation compaction, context pruning, and RAG-based session retention for long-running workflows.
+- 📚 **Dynamic Knowledge Base RAG:** Developed patterns for real-time document insertion, updating, deletion, and semantic retrieval to keep agent context current.
+- 🕸️ **Multi-Agent Orchestration:** Used LangGraph and ReAct patterns for goal-directed decision-making, tool execution, and multi-agent workflow delegation.
+- 🔓 **Open Source & Local LLMs:** Explored open-source agentic coding frameworks (OpenCode), analyzed PR features for LM Studio CLI, and built local LLM/GCP connection patterns via Google ADK.
 
 ---
 
@@ -145,7 +187,7 @@
 | 🔵 C Problems Solved | **11** |
 | 🏅 Total Badges Earned | **6** |
 | 🔥 Longest Streak | **100 Days (2024 and 2025)** |
-| 🧠 Top Skills | Hash Table · Array · LinkedList|
+| 🧠 Top Skills | Hash Table · Array · LinkedList |
 
 </div>
 
@@ -173,7 +215,7 @@
 
 | Certificate | Issuer |
 |---|---|
-| ✅ Java Full Stack | Wipro TalentNext |
+| ✅ Certified Java Full Stack Developer (Digital Skills Readiness Program) | Wipro TalentNext |
 | 🥈 Programming in Java — ELITE | NPTEL |
 | 🥈 Data Structures and Algorithms Using Java — ELITE | NPTEL |
 | 🥈 Python for Data Science — ELITE + SILVER | NPTEL |
@@ -192,9 +234,11 @@
 
 <div align="center">
 
-| Degree | Institution | University | CGPA | Year |
+| Degree | Institution | University / Board | Score | Year |
 |---|---|---|---|---|
-| 🎓 B.Tech — Information Technology | St. Joseph's College of Engineering, Chennai | Anna University | **7.39** | 2026 |
+| 🎓 B.Tech — Information Technology | St. Joseph's College of Engineering, Chennai | Anna University | **CGPA 7.38** | 2022 – 2026 |
+| 🏫 Higher Secondary Certificate (HSC) | Reliance Foundation School | CBSE | **65.2%** | 2022 |
+| 🏫 Secondary School Leaving Certificate (SSLC) | Velammal Vidyalaya | CBSE | **76.3%** | 2020 |
 
 </div>
 
@@ -209,7 +253,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-varung31102004-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/varung31102004)
 [![HackerRank](https://img.shields.io/badge/HackerRank-varung31102004-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/varung31102004)
 [![SkillRack](https://img.shields.io/badge/SkillRack-Profile-FF6B35?style=for-the-badge&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=408206&key=79969436c1dac5307a7370aff00170af4d8f9afc)
-[![Email](https://img.shields.io/badge/Email-varung31102004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varung31102004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-varungobi.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varungobi.dev@gmail.com)
 
 </div>
 
