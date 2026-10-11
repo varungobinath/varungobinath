@@ -121,8 +121,8 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **HR Policy Bot (RAG & Local LLM)** | Python • Streamlit • LangChain • LangGraph • LM Studio • ChromaDB • SQLite | RAG assistant with **hybrid search (BM25 + ChromaDB vectors)** delivering document-grounded answers from company policy PDFs via a local LLM; Streamlit UI with SQLite-backed question history and an admin panel for PDF upload and automatic vector re-indexing |
-| **Knee Osteoarthritis Severity Grading System** | Python • TensorFlow/Keras • CNNs • Streamlit | Ensemble of fine-tuned **Xception, ResNet-50, and InceptionResNetV2** classifying X-rays into 5 KL severity grades; **71% balanced accuracy** across ~8,000 images, handling extreme class imbalance (Grade 4 at 3%) with augmentation and F1-weighted aggregation; **Grad-CAM heatmaps** for explainable diagnoses |
+| [**HR Policy Bot (RAG & Local LLM)**](https://github.com/varungobinath/HrPolicyBot-Python) | Python • Streamlit • LangChain • LangGraph • LM Studio • ChromaDB • SQLite | RAG assistant with **hybrid search (BM25 + ChromaDB vectors)** delivering document-grounded answers from company policy PDFs via a local LLM; Streamlit UI with SQLite-backed question history and an admin panel for PDF upload and automatic vector re-indexing |
+| [**Knee Osteoarthritis Severity Grading System**](https://github.com/varungobinath/Knee-Osteoarthritis-Severity) | Python • TensorFlow/Keras • CNNs • Streamlit | Ensemble of fine-tuned **Xception, ResNet-50, and InceptionResNetV2** classifying X-rays into 5 KL severity grades; **71% balanced accuracy** across ~8,000 images, handling extreme class imbalance (Grade 4 at 3%) with augmentation and F1-weighted aggregation; **Grad-CAM heatmaps** for explainable diagnoses |
 
 </div>
 
@@ -132,8 +132,6 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**HR Policy Bot (RAG & Local LLM)**](https://github.com/varungobinath/HrPolicyBot-Python) | Python • Streamlit • LangChain • LangGraph • LM Studio • ChromaDB • SQLite | RAG assistant using **hybrid search (BM25 + ChromaDB vectors)** to deliver document-grounded answers from company policy PDFs via a local LLM (LM Studio). Streamlit UI with SQLite-backed question history and an admin panel for PDF upload and automatic vector re-indexing |
-| [**Knee Osteoarthritis Severity Grading System**](https://github.com/varungobinath/Knee-Osteoarthritis-Severity) | Python • TensorFlow/Keras • CNNs • Streamlit | Ensemble of fine-tuned **Xception, ResNet-50, and InceptionResNetV2** classifying X-rays into 5 KL severity grades. **71% balanced accuracy** across ~8,000 images, handling extreme class imbalance (Grade 4 at 3%) with augmentation and F1-weighted aggregation. Streamlit app with **Grad-CAM heatmaps** for explainable diagnoses |
 | [**High-Throughput Audio Streaming Platform**](https://github.com/varungobinath/AudioStreamingPlatform) | Spring Boot • React.js • MySQL • Resilience4j | Full-stack audio streaming with non-blocking memory techniques (**FileSystemResource**). Backend hardened against abusive traffic with **Resilience4j rate limiting** (audio uploads capped at **5 req/sec**) |
 | [**Scalable URL Shortener & Analytics Service**](https://github.com/varungobinath/URLShortener) | Spring Boot • MySQL • REST API • DTO Pattern | RESTful redirection engine with unique **hash-based slug generation** and persistent click-tracking analytics in MySQL. Strict MVC with DTO abstraction layers to optimize database operations and reduce query overhead |
 | [**To-Do List App**](https://github.com/varungobinath/todolist-app-fullstack) | Flutter • Spring Boot • MySQL | Full-stack multi-user app with login/register auth, CRUD tasks, DTO pattern and optimized JPA queries |
