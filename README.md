@@ -60,11 +60,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Databases & Cloud**
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Tools & Platforms**
 
@@ -133,11 +132,12 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**Audio Streaming Platform**](https://github.com/varungobinath/AudioStreamingPlatform) | React.js • Spring Boot • MySQL • Resilience4j | Non-blocking audio streaming with FileSystemResource + Resilience4j Rate Limiter capped at **5 req/sec** on uploads |
-| [**URL Shortener & Analytics Service**](https://github.com/varungobinath/URLShortener) | HTML • Spring Boot • MySQL | Hash-based slug generation, redirect engine, persistent click-tracking analytics, strict MVC with DTO layers and JPA |
+| [**HR Policy Bot (RAG & Local LLM)**](https://github.com/varungobinath/HrPolicyBot-Python) | Python • Streamlit • LangChain • LangGraph • LM Studio • ChromaDB • SQLite | RAG assistant using **hybrid search (BM25 + ChromaDB vectors)** to deliver document-grounded answers from company policy PDFs via a local LLM (LM Studio). Streamlit UI with SQLite-backed question history and an admin panel for PDF upload and automatic vector re-indexing |
+| [**Knee Osteoarthritis Severity Grading System**](https://github.com/varungobinath/Knee-Osteoarthritis-Severity) | Python • TensorFlow/Keras • CNNs • Streamlit | Ensemble of fine-tuned **Xception, ResNet-50, and InceptionResNetV2** classifying X-rays into 5 KL severity grades. **71% balanced accuracy** across ~8,000 images, handling extreme class imbalance (Grade 4 at 3%) with augmentation and F1-weighted aggregation. Streamlit app with **Grad-CAM heatmaps** for explainable diagnoses |
+| [**High-Throughput Audio Streaming Platform**](https://github.com/varungobinath/AudioStreamingPlatform) | Spring Boot • React.js • MySQL • Resilience4j | Full-stack audio streaming with non-blocking memory techniques (**FileSystemResource**). Backend hardened against abusive traffic with **Resilience4j rate limiting** (audio uploads capped at **5 req/sec**) |
+| [**Scalable URL Shortener & Analytics Service**](https://github.com/varungobinath/URLShortener) | Spring Boot • MySQL • REST API • DTO Pattern | RESTful redirection engine with unique **hash-based slug generation** and persistent click-tracking analytics in MySQL. Strict MVC with DTO abstraction layers to optimize database operations and reduce query overhead |
 | [**To-Do List App**](https://github.com/varungobinath/todolist-app-fullstack) | Flutter • Spring Boot • MySQL | Full-stack multi-user app with login/register auth, CRUD tasks, DTO pattern and optimized JPA queries |
 | [**Employee Management System**](https://github.com/varungobinath/EMS) | Flutter • Spring Boot • MySQL | Full-stack CRUD with RESTful APIs, department management, scalable and secure DB queries |
-| [**ThePhonepedia**](https://github.com/varungobinath/ThePhonepedia) | Flutter | Cross-platform app with live REST API integration, specs explorer, light/dark/system theme support |
 
 </div>
 
