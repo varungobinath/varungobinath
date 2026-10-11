@@ -14,7 +14,7 @@
 - 💼 Industry Full Stack Java Intern @ **VEI Technologies Pvt. Ltd.** (Jan – Apr 2026)
 - 🤖 Backend & AI Engineer building **production-grade REST APIs**, **RAG pipelines**, and **autonomous Agentic AI workflows**
 - 🧠 Solving agentic architecture challenges: **state management, memory compaction, evaluation loops, and tool orchestration**
-- 🧩 Active **DSA practitioner** — 400+ LeetCode problems solved, mostly in Java
+- 🧩 Active **DSA practitioner** — 100 days LeetCode badge, mostly in Java
 - 📍 Based in **Chennai, Tamil Nadu, India**
 - 📬 Reach me at **varungobi.dev@gmail.com**
 
